@@ -1,0 +1,7 @@
+{
+  "name": "SPARQ: AI Optimization Under Non-Linear Delay",
+  "description": "Interactive framework for service placement, routing, and resource allocation of AI-intensive applications under non-linear delay constraints (M/M/1 and M/G/1 queueing).",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
